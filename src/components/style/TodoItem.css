@@ -1,0 +1,25 @@
+.container{
+    background-color: #4150fa;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 0 5px 0 20px;
+    margin-bottom: 20px;
+}
+
+.title-item{
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.tombol{
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-right: 10;
+    align-items: center;
+    gap: 10px;
+    /* background-color: blue; */
+}

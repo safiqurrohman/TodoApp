@@ -1,0 +1,48 @@
+.btn{
+    width: 5rem;
+    height: 1.9rem;
+    margin: 0 0.2rem;
+    color: #ffff;
+    border: none;
+    cursor: pointer;
+}
+.btn:focus{
+    outline: none;
+}
+.btn-success{
+    background-color: #05fc26;
+}
+
+.btn-warning{
+    background: #f72a3f;
+}
+
+.btn-tambah{
+    background: #00b909;
+    margin-right: 10px;
+}
+
+.btn-success-modal{
+    background: #00b909;
+    width: 100px;
+    height: 40px;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+
+.btn-warning-modal{
+    background: #f72a3f;
+    width: 100px;
+    height: 40px;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+
+.btn-success-modal:hover,
+.btn-success:hover{
+    background: #00a108;
+}
+
+.btn-warning-modal:hover{
+    background: #a70011;
+}
